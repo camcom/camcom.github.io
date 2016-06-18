@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Cambridge Communists</title>
-    <link>http://cambridgecommunist.party/blog/</link>
-    <description>Recent content in Blogs on Cambridge Communists</description>
+    <title>Admin on Cambridge Communists</title>
+    <link>http://cambridgecommunist.party/categories/admin/</link>
+    <description>Recent content in Admin on Cambridge Communists</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 18 Jun 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://cambridgecommunist.party/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cambridgecommunist.party/categories/admin/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Under Construction</title>
