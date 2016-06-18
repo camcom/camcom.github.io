@@ -10,50 +10,30 @@
     <atom:link href="http://cambridgecommunist.party/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>About Us</title>
+      <link>http://cambridgecommunist.party/about/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cambridgecommunist.party/about/</guid>
+      <description>&lt;p&gt;We are the Cambridge Branch of the &lt;a href=&#34;http://communist-party.org.uk&#34;&gt;Communist Party of
+Britain&lt;/a&gt;, the UK&amp;rsquo;s largest
+Marxist-Leninist party.&lt;/p&gt;
+
+&lt;p&gt;We fight for the construction of a socialist, federal British
+republic, following our party programme, &lt;a href=&#34;https://issuu.com/communist_party/docs/brs/1?e=1884605/7058050&#34;&gt;Britain&amp;rsquo;s Road to
+Socialism&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information, contact us at &lt;code&gt;info at cambridgecommunist dot party&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Under Construction</title>
       <link>http://cambridgecommunist.party/blog/under-construction/</link>
       <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cambridgecommunist.party/blog/under-construction/</guid>
       <description>&lt;p&gt;This site is currently under construction.  Please check back soon!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>http://cambridgecommunist.party/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://cambridgecommunist.party/about/</guid>
-      <description>
-
-&lt;p&gt;Test!  Hugo is a static site engine written in Go.&lt;/p&gt;
-
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/spf13&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;setup:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Setup&lt;/h2&gt;
-
-&lt;p&gt;Some fun facts about &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Built in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Loosely inspired by &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Primarily developed by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; on the train while commuting to and from Manhattan.&lt;/li&gt;
-&lt;li&gt;Coded in &lt;a href=&#34;http://vim.org&#34;&gt;Vim&lt;/a&gt; using &lt;a href=&#34;http://vim.spf13.com/&#34;&gt;spf13-vim&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://github.com/spf13/hugo/issues/new&#34;&gt;open an issue on GitHub&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
     </item>
     
